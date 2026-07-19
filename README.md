@@ -94,7 +94,7 @@ ISR: N/A
 ### Entrada
 
 ```
-90000
+100000
 ```
 
 ### Captura
