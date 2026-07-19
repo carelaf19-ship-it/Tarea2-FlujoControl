@@ -45,7 +45,7 @@ Aplicar estructuras de control (`if`, `else if` y `else`) para resolver un probl
 ### Entrada
 
 ```
-30000
+20000
 ```
 
 ### Resultado esperado
