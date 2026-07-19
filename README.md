@@ -144,13 +144,5 @@ Finalmente muestra en pantalla el sueldo mensual ingresado, el ISR anual y el IS
 
 ---
 
-# Autor
 
-Franklin Carela Martínez  
-Matrícula: 2024-3994
 
----
-
-# Repositorio GitHub
-
-Colocar aquí el enlace del repositorio una vez creado.
